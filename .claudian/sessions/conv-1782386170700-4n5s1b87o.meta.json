@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782386170700-4n5s1b87o",
+  "providerId": "claude",
+  "title": "Add methodology directory",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782386170701,
+  "updatedAt": 1782398083154,
+  "lastResponseAt": 1782398083154,
+  "sessionId": "97c7fd18-caf3-4315-9fe6-8e475455835e",
+  "providerState": {
+    "providerSessionId": "97c7fd18-caf3-4315-9fe6-8e475455835e"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 7626,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 52096,
+    "contextWindow": 200000,
+    "contextTokens": 59722,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}
