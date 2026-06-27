@@ -4,20 +4,20 @@
   "title": "Add methodology directory",
   "titleGenerationStatus": "success",
   "createdAt": 1782386170701,
-  "updatedAt": 1782448230167,
-  "lastResponseAt": 1782448230167,
+  "updatedAt": 1782530330269,
+  "lastResponseAt": 1782530330269,
   "sessionId": "97c7fd18-caf3-4315-9fe6-8e475455835e",
   "providerState": {
     "providerSessionId": "97c7fd18-caf3-4315-9fe6-8e475455835e"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 500,
+    "inputTokens": 1367,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 53504,
+    "cacheReadInputTokens": 69120,
     "contextWindow": 200000,
-    "contextTokens": 54004,
-    "percentage": 27,
+    "contextTokens": 70487,
+    "percentage": 35,
     "contextWindowIsAuthoritative": true
   }
 }
