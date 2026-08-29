@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方法/软件系统设计/Agent 协作经验.md",
+                "file": "现象或规律/不存在万能钥匙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent 协作经验"
+              "title": "不存在万能钥匙"
+            }
+          },
+          {
+            "id": "66feaed8df7d1b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "现象或规律/自学中的脑补矛盾.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "自学中的脑补矛盾"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "现象或规律/自学中的脑补矛盾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "现象或规律/自学中的脑补矛盾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,6 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "现象或规律/自学中的脑补矛盾.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,11 +193,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 780.5
+    "width": 207.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +211,21 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "33e85bd9205c1a0e",
+  "active": "66feaed8df7d1b17",
   "lastOpenFiles": [
+    "现象或规律/关于变换操作中的依赖与认知负担.md",
+    "概念/关于变换操作中的依赖与认知负担.md",
+    "概念/二维数学软件工程的一些方法.md",
+    "概念/新建文本文档.txt",
+    "概念/认知复杂度简述.md",
+    "现象或规律/无法灵活变通.md",
+    "现象或规律/不存在万能钥匙.md",
+    "概念/表达/时序图.md",
+    "概念/表达/流程图.md",
+    "概念/表达/架构图.md",
+    "现象或规律/自学中的脑补矛盾.md",
+    "CLAUDE.md",
+    "方法/软件系统设计/Agent 协作经验.md",
     "方法/软件系统设计/Agent 协作经验.md.tmp.15412.218b45cd9627",
     "方法/软件系统设计/Agent 协作经验.md.tmp.15412.cd645b327770",
     "方法/软件系统设计/Agent 协作经验.md.tmp.15412.c48800c112e4",
@@ -202,18 +235,11 @@
     "方法/软件系统设计/Agent 协作经验.md.tmp.9976.6d3476971f22",
     "方法/软件系统设计/Agent 协作经验.md.tmp.9976.b732186fc5ff",
     "方法/软件系统设计/Agent 协作经验.md.tmp.9976.f40db84885a1",
-    "方法/软件系统设计/Agent 协作经验.md.tmp.18632.bf034cbe1672",
-    "方法/软件系统设计/Agent 协作经验.md.tmp.18632.483aa65969a3",
     "方法/软件系统设计/Agent 协作准则.md",
-    "方法/软件系统设计/Agent 协作经验.md",
     "概念/软件系统设计/设计.md",
     "概念/软件系统设计/需求.md",
     "方法/软件系统设计/分层设计法.md",
-    "概念/表达/架构图.md",
-    "概念/表达/流程图.md",
-    "CLAUDE.md",
     "概念/表达/状态图.md",
-    "概念/表达/时序图.md",
     "概念/软件系统设计/系统主要指标.md",
     "概念/软件系统设计/时序图.md",
     "概念/软件系统设计/流程图.md",
@@ -222,12 +248,6 @@
     "概念/软件系统设计/架构图.md",
     "概念/软件系统设计/环境.md",
     "概念/软件系统设计/安全性.md",
-    "概念/软件系统设计/性能.md",
-    "概念/软件系统设计/主体.md",
-    "概念/软件系统设计/质量.md",
-    "现象或规律/自学中的脑补矛盾.md",
-    "概念/认知功能/整体与局部认知.md",
-    "概念/认知功能/元认知.md",
-    "概念/逻辑复杂度.md"
+    "概念/软件系统设计/性能.md"
   ]
 }
